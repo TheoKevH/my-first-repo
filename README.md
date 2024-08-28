@@ -5,3 +5,5 @@ NPM: 2306210973
 Kelas: PBP F
 
 Hobi: Berlari
+
+Jurusan: Sastra Mesin
